@@ -14,30 +14,30 @@ Desenvolver uma aplicação de gerenciamento de tarefas (to-do list) utilizando 
 
 ## Funcionalidades
 
-- **Adicionar tarefa:** O usuário deve ser capaz de adicionar uma nova tarefa com título e descrição. A data de criação deve ser preenchida automaticamente pelo sistema. Ao adicionar uma tarefa, o usuário deve ser redirecionado para a página da tarefa recém-criada.
+- __Adicionar tarefa:__ O usuário deve ser capaz de adicionar uma nova tarefa com título e descrição. A data de criação deve ser preenchida automaticamente pelo sistema. Ao adicionar uma tarefa, o usuário deve ser redirecionado para a página da tarefa recém-criada.
 <br />
-- **Listar tarefas:** A página inicial deve exibir uma lista com todas as tarefas cadastradas, ordenadas pela data de criação. Cada item da lista deve exibir o título, a descrição e a data de criação da tarefa. Além disso, deve ser possível filtrar as tarefas por status (pendente, em andamento ou concluída).
+- __Listar tarefas:__ A página inicial deve exibir uma lista com todas as tarefas cadastradas, ordenadas pela data de criação. Cada item da lista deve exibir o título, a descrição e a data de criação da tarefa. Além disso, deve ser possível filtrar as tarefas por status (pendente, em andamento ou concluída).
 <br />
-- **Editar tarefa:** O usuário deve ser capaz de editar o título e a descrição de uma tarefa já existente.
+- __Editar tarefa:__ O usuário deve ser capaz de editar o título e a descrição de uma tarefa já existente.
 <br />
-- **Remover tarefa:** O usuário deve ser capaz de remover uma tarefa.
+- __Remover tarefa:__ O usuário deve ser capaz de remover uma tarefa.
 <br />
-- **Mudar status da tarefa:** O usuário deve ser capaz de mudar o status de uma tarefa para pendente, em andamento ou concluída.
+- __Mudar status da tarefa:__ O usuário deve ser capaz de mudar o status de uma tarefa para pendente, em andamento ou concluída.
 <br />
 
 ## Avaliação
 
 O teste será avaliado com base nos seguintes critérios:
 
-- **Funcionalidade:** Todas as funcionalidades descritas acima devem ser implementadas e funcionando corretamente.
+- __Funcionalidade:__ Todas as funcionalidades descritas acima devem ser implementadas e funcionando corretamente.
 <br />
-- **Organização e estrutura do código:** O código deve ser bem organizado e de fácil leitura e manutenção.
+- __Organização e estrutura do código:__ O código deve ser bem organizado e de fácil leitura e manutenção.
 <br />
-- **Qualidade do código:** O código deve seguir as boas práticas de programação, ser modular e trabalhar com componentes.
+- __Qualidade do código:__ O código deve seguir as boas práticas de programação, ser modular e trabalhar com componentes.
 <br />
-- **Design e usabilidade:** A interface deve ser agradável e de fácil utilização.
+- __Design e usabilidade:__ A interface deve ser agradável e de fácil utilização.
 <br />
-- **Responsívo:** A aplicação deve ser adaptada para aparelhos móveis.
+- __Responsívo:__ A aplicação deve ser adaptada para aparelhos móveis.
 <br />
 
 ## Entrega
